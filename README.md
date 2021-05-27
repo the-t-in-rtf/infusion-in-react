@@ -1,7 +1,8 @@
 # Infusion in React
 
 This repository demonstrates a strategy for using Infusion within a React app.  It was heavily influenced by
-[the approach outlined in this blog post](https://medium.com/@ryoldash/customize-webpack-config-of-react-app-created-with-create-react-app-7a78c7849edc).
+[the approach outlined in this blog post](https://medium.com/@ryoldash/customize-webpack-config-of-react-app-created-with-create-react-app-7a78c7849edc)
+and one of the strategies outlined in [this stackoverflow post](https://stackoverflow.com/questions/45658200/how-do-i-use-include-third-party-libraries-in-react/45658201).
 
 This app demonstrates strategies for:
 
